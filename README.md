@@ -4,7 +4,7 @@ Code, data, tables and figures for the manuscript
 
 > Pastrana Palacios, C. C.; Reyes-Trujillo, A.; Benavides-Bolaños, J. A. *Random Cross-Validation Overstates Transferability of
 > Leaf Chlorophyll Estimates from In Situ VIS-NIR Reflectance in Sugarcane (Saccharum spp.)*. Universidad del Valle, Cali, Colombia.
-> (submitted; citation and DOI to be added after release)
+> (submitted). Archived release: https://doi.org/10.5281/zenodo.24406557
 
 PLSR for leaf chlorophyll a and b from 477 sugarcane leaves (CC 01-1940, first ratoon, LASA station, 20 plots, six campaigns,
 60-210 days after cutting) under random, leave-one-plot-out, leave-one-block-out and leave-one-campaign-out validation, with
@@ -56,4 +56,4 @@ together). In every training set the MSC reference is re-estimated from the trai
 
 ## Data and licence
 
-The code is released under the MIT licence (`LICENSE`). The data in `data/` are released under CC BY 4.0 (see `data/README.md`). Please cite the manuscript (and the archived release, DOI to be added) if you use them.
+The code is released under the MIT licence (`LICENSE`). The data in `data/` are released under CC BY 4.0 (see `data/README.md`). Please cite the manuscript (and the archived release, https://doi.org/10.5281/zenodo.24406557) if you use them.
