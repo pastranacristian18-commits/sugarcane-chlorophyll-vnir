@@ -22,6 +22,7 @@ All numbers in the manuscript and Supporting Information (SI) are produced by `s
 | Table S10 (band exclusion) and P6S1 reflectance check | `10_band_exclusion_sensitivity.R` | `table12a_*`, `table12b_*` |
 | Table S7 (FDR, TCA, vegetation indices) | `11_analisis_adicionales.R` | `table13_*`, `table15_*`, `table16_*` |
 | Figures | `09_figures.R` | `results/figures/` (see below) |
+| TOC graphic (3.25 x 1.75 in, submission file) | `14_toc_graphic.R` | `results/figures/toc_graphic.png`, `.pdf` |
 
 ## Data processing
 
