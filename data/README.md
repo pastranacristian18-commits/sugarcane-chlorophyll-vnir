@@ -17,4 +17,4 @@ spectra and `Tratamiento` were not altered.
 ## Licence
 
 The data in this folder (spectra, chlorophyll measurements and design metadata) are released under the **Creative Commons Attribution 4.0 International licence (CC BY 4.0)**: https://creativecommons.org/licenses/by/4.0/
-You may share and adapt them, including commercially, provided you give appropriate credit by citing the manuscript and the archived release (DOI to be added after the Zenodo release). The MIT licence of the repository (`LICENSE`) covers the code only.
+You may share and adapt them, including commercially, provided you give appropriate credit by citing the manuscript and the archived release (https://doi.org/10.5281/zenodo.24406557). The MIT licence of the repository (`LICENSE`) covers the code only.
