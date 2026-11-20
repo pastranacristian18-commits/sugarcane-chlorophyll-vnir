@@ -56,5 +56,4 @@ together). In every training set the MSC reference is re-estimated from the trai
 
 ## Data and licence
 
-The code is released under the MIT licence (`LICENSE`). The data in `data/` are released under the licence stated in
-`data/README.md`. Please cite the manuscript (and the archived release, DOI to be added) if you use them.
+The code is released under the MIT licence (`LICENSE`). The data in `data/` are released under CC BY 4.0 (see `data/README.md`). Please cite the manuscript (and the archived release, DOI to be added) if you use them.
