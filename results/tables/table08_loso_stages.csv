@@ -1,0 +1,5 @@
+"pigment","train","test","LV","n","r2","R2","RMSE","RPD","Bias"
+"Chl a","Tillering","Elongation",6,237,0.031,-1.324,0.482,0.657,0.314
+"Chl a","Elongation","Tillering",9,240,0.041,-4.768,1.026,0.417,-0.9
+"Chl b","Tillering","Elongation",6,237,0.026,-1.667,0.186,0.614,0.114
+"Chl b","Elongation","Tillering",8,240,0.047,-2.955,0.406,0.504,-0.34

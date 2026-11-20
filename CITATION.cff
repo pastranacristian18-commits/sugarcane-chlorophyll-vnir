@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the manuscript and this archived release."
+title: "Code and data for: Random Cross-Validation Overstates Transferability of Leaf Chlorophyll Estimates from In Situ VIS-NIR Reflectance in Sugarcane"
+type: software
+authors:
+  - family-names: "Pastrana Palacios"
+    given-names: "Cristian Camilo"
+    affiliation: "Universidad del Valle, Cali, Colombia"
+  - family-names: "Reyes-Trujillo"
+    given-names: "Aldemar"
+    affiliation: "Universidad del Valle, Cali, Colombia"
+  - family-names: "Benavides-Bolaños"
+    given-names: "Jhony Armando"
+    affiliation: "Universidad del Valle, Cali, Colombia"
+license: MIT
+repository-code: "https://github.com/pastranacristian18-commits/sugarcane-chlorophyll-vnir"
+# doi: "10.5281/zenodo.XXXXXXX"   # add after the first Zenodo release

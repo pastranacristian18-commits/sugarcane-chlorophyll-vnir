@@ -1,0 +1,11 @@
+"pigment","scheme","mean_LV","min_LV","max_LV"
+"Chl a","Random 5-fold (leaves)",10.2,9,11
+"Chl a","Leave-one-plot-out",12.4,8,15
+"Chl a","Leave-one-block-out",8.6,6,11
+"Chl a","Leave-one-campaign-out",9.83333333333333,8,11
+"Chl a","New campaign + new plots",9.3,6,13
+"Chl b","Random 5-fold (leaves)",8.2,7,10
+"Chl b","Leave-one-plot-out",9.45,7,15
+"Chl b","Leave-one-block-out",8.2,6,11
+"Chl b","Leave-one-campaign-out",9.33333333333333,7,14
+"Chl b","New campaign + new plots",8.63333333333333,6,13

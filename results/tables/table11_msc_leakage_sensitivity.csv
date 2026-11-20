@@ -1,0 +1,5 @@
+"pigment","scheme","r2_global","r2_fold","R2_global","R2_fold","RMSE_global","RMSE_fold","delta_RMSE_pct"
+"Chl a","loco",0.134,0.134,0.029,0.029,0.472,0.472,0.006
+"Chl b","loco",0.081,0.081,-0.04,-0.04,0.21,0.21,0.004
+"Chl a","random",0.462,0.462,0.458,0.458,0.353,0.353,0
+"Chl b","random",0.399,0.399,0.395,0.395,0.16,0.16,0

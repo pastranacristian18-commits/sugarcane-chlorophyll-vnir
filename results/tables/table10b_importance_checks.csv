@@ -1,0 +1,5 @@
+"quantity","value"
+"cor(VIP Chl a, VIP Chl b)",0.998
+"cor(RF Chl a, RF Chl b)",0.998
+"PCA-RF r2 calibration Chl a",0.946
+"PCA-RF r2 validation Chl a",0.48

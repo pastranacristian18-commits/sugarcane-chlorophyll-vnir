@@ -1,0 +1,6 @@
+"check","value"
+"min raw reflectance (%) of Day 4 / P6S1",10.68
+"min processed (SG+MSC) reflectance (%) of Day 4 / P6S1",4.241
+"leaves whose raw minimum is < 1 %",0
+"lowest raw minimum among the 478 leaves",1
+"rank of P6S1 among raw minima (1 = lowest)",375

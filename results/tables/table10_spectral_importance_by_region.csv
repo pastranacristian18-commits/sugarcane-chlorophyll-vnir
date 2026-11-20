@@ -1,0 +1,11 @@
+"pigment","region","mean_VIP","pct_bands_VIP_gt1","mean_RF_importance"
+"Chl a","450-520 (blue-green)",0.743,7.368,0.263
+"Chl a","520-600 (green)",0.656,0,0.346
+"Chl a","600-700 (red absorption)",0.607,0,0.302
+"Chl a","700-770 (red edge)",1.5,77.895,0.406
+"Chl a","770-820 (NIR plateau)",1.121,52.941,0.421
+"Chl b","450-520 (blue-green)",0.742,7.368,0.262
+"Chl b","520-600 (green)",0.648,0,0.338
+"Chl b","600-700 (red absorption)",0.601,0,0.296
+"Chl b","700-770 (red edge)",1.512,76.842,0.396
+"Chl b","770-820 (NIR plateau)",1.107,54.412,0.404

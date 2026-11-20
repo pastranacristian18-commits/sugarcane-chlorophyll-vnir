@@ -1,0 +1,7 @@
+"pigment","design","r2","R2","RPD","note"
+"Chl a","Spectral-extremes split (Kennard-Stone label), 20 inner-CV seeds","0.283-0.635","0.238-0.566","1.183-1.567","6 LV in 10/20 seeds; max r2 = 0.635"
+"Chl a","Random leaf-level 5-fold","0.284","0.269","1.177",""
+"Chl a","Whole plots held out, median [2.5th, 97.5th] of 50 partitions","0.086 [0.025, 0.200]","-0.110 [-0.275, 0.104]","0.955 [0.891, 1.063]","R2 < 0 in 41 of 50"
+"Chl b","Spectral-extremes split (Kennard-Stone label), 20 inner-CV seeds","0.295-0.709","0.262-0.592","1.202-1.617","6 LV in 9/20 seeds; max r2 = 0.709"
+"Chl b","Random leaf-level 5-fold","0.308","0.297","1.200",""
+"Chl b","Whole plots held out, median [2.5th, 97.5th] of 50 partitions","0.092 [0.014, 0.174]","-0.019 [-0.287, 0.096]","0.997 [0.887, 1.058]","R2 < 0 in 33 of 50"

@@ -1,0 +1,9 @@
+"pigment","scheme","bands","r2","R2","RMSE","RPD"
+"Chl a","random","all bands",0.462,0.458,0.353,1.36
+"Chl a","random","without 755-767 nm and >= 815 nm",0.473,0.47,0.349,1.374
+"Chl b","random","all bands",0.399,0.395,0.16,1.287
+"Chl b","random","without 755-767 nm and >= 815 nm",0.445,0.44,0.154,1.338
+"Chl a","loco","all bands",0.134,0.029,0.472,1.016
+"Chl a","loco","without 755-767 nm and >= 815 nm",0.135,0.049,0.467,1.026
+"Chl b","loco","all bands",0.081,-0.04,0.21,0.982
+"Chl b","loco","without 755-767 nm and >= 815 nm",0.112,-0.002,0.206,1

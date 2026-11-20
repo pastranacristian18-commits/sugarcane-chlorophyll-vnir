@@ -1,0 +1,17 @@
+"pigment","scheme","n","r2_dev","R2_dev","RMSE_dev","RPD_dev"
+"Chl a","Leave-one-plot-out, campaign-centred",477,0.014,-0.004,0.306,0.998
+"Chl a","Leave-one-campaign-out, campaign-centred (offset removed)",477,0.003,-0.023,0.302,0.989
+"Chl a","  LOCO centred, held-out 60 DDC",80,0.013,-0.035,0.323,0.983
+"Chl a","  LOCO centred, held-out 90 DDC",80,0.011,-0.04,0.257,0.981
+"Chl a","  LOCO centred, held-out 120 DDC",80,0.001,-0.062,0.303,0.97
+"Chl a","  LOCO centred, held-out 150 DDC",77,0.017,0.017,0.34,1.009
+"Chl a","  LOCO centred, held-out 180 DDC",80,0.109,0.041,0.317,1.021
+"Chl a","  LOCO centred, held-out 210 DDC",80,0.013,-0.114,0.262,0.948
+"Chl b","Leave-one-plot-out, campaign-centred",477,0.019,0.015,0.133,1.007
+"Chl b","Leave-one-campaign-out, campaign-centred (offset removed)",477,0.004,-0.02,0.132,0.99
+"Chl b","  LOCO centred, held-out 60 DDC",80,0.003,-0.011,0.205,0.994
+"Chl b","  LOCO centred, held-out 90 DDC",80,0.022,-0.077,0.107,0.964
+"Chl b","  LOCO centred, held-out 120 DDC",80,0.003,-0.111,0.123,0.949
+"Chl b","  LOCO centred, held-out 150 DDC",77,0.012,0.003,0.122,1.001
+"Chl b","  LOCO centred, held-out 180 DDC",80,0.094,0.077,0.11,1.041
+"Chl b","  LOCO centred, held-out 210 DDC",80,0.045,-0.035,0.094,0.983

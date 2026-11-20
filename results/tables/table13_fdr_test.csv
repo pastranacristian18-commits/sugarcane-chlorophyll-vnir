@@ -1,0 +1,19 @@
+"variante","esquema","pigmento","r2","R2","RMSE","RPD","mean_LV"
+"MSC+SG (pipeline actual, sin derivada)","random","Chl a",0.462,0.458,0.3526,1.36,10.2
+"MSC+SG (pipeline actual, sin derivada)","random","Chl b",0.399,0.395,0.1598,1.287,8.2
+"MSC+SG (pipeline actual, sin derivada)","lopo","Chl a",0.44,0.431,0.3613,1.327,12.4
+"MSC+SG (pipeline actual, sin derivada)","lopo","Chl b",0.387,0.381,0.1617,1.272,9.4
+"MSC+SG (pipeline actual, sin derivada)","loco","Chl a",0.134,0.029,0.4719,1.016,9.8
+"MSC+SG (pipeline actual, sin derivada)","loco","Chl b",0.081,-0.04,0.2096,0.982,9.3
+"FDR sobre SG-solo (sin MSC, como Li et al. 2016)","random","Chl a",0.503,0.487,0.3432,1.397,10
+"FDR sobre SG-solo (sin MSC, como Li et al. 2016)","random","Chl b",0.458,0.447,0.1528,1.346,9.6
+"FDR sobre SG-solo (sin MSC, como Li et al. 2016)","lopo","Chl a",0.468,0.455,0.3537,1.356,10.1
+"FDR sobre SG-solo (sin MSC, como Li et al. 2016)","lopo","Chl b",0.431,0.413,0.1574,1.307,10.3
+"FDR sobre SG-solo (sin MSC, como Li et al. 2016)","loco","Chl a",0.16,0.003,0.4781,1.003,9.7
+"FDR sobre SG-solo (sin MSC, como Li et al. 2016)","loco","Chl b",0.119,-0.043,0.2099,0.98,9.8
+"FDR sobre MSC+SG","random","Chl a",0.483,0.476,0.3467,1.383,7.6
+"FDR sobre MSC+SG","random","Chl b",0.426,0.416,0.157,1.31,7
+"FDR sobre MSC+SG","lopo","Chl a",0.457,0.446,0.3564,1.345,7.6
+"FDR sobre MSC+SG","lopo","Chl b",0.417,0.41,0.1578,1.304,6.4
+"FDR sobre MSC+SG","loco","Chl a",0.143,0.023,0.4733,1.013,8
+"FDR sobre MSC+SG","loco","Chl b",0.123,-0.007,0.2062,0.998,6.2
